@@ -1,0 +1,25 @@
+Comandos GIT
+
+
+LINUX 
+
+- CD ( navega entre as páginas )
+- CD .. ( Volta 1 passo )
+- CNTRL L - Clear o desktop 
+- SUDO SU libera permissão para uso de mkdir 
+- Ls ( Lista de diretórios contidos na pag )
+- mkdir
+- rm -rf ( remove force)
+- OpenssL sha1 aplicativo- Encripta o app
+- Lo
+- Git init ( iniciar repositório )
+- Git add ( mover arquivos )
+- Git commit ( primeiro commit 
+- Git commit -m “adiciona index”
+- Git status 
+- Mv lasanha.md ./receitas/
+- Git config  - - list 
+- Git config - - global - - unset user.e-mail
+- Git config - - global - - unset user.name 
+- Git remote add APELIDO https 
+- LS -a (mostra dir ocultos)
